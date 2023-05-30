@@ -8,10 +8,8 @@ function App() {
       <div className="App-content">
         <p>
           Strobe is a ZK-proof generation network.
-          Clients generate proofs with diverse alogrithms, time, cost and centralization preferences.
-          Nodes run hardware to earn rewards with similar preference configurability.
-          Our network maximizes for hardware uptime, efficient pricing and proof optimization.
-          Strobe is currently available on an invite-only basis.
+          
+          Strobe is currently in private beta and available on an invite-only basis.
         </p>
       </div>
       <div className="App-contact">
