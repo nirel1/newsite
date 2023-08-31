@@ -7,7 +7,7 @@ function App() {
       <img src="/logo.png" className="App-logo" alt="logo" sizes="10%" />
       <div className="App-content">
         <p>
-          Strobe is a ZK-proof generation network.
+          Strobe is building an open protocol for prover incentivization.  
           
           Strobe is currently in private beta and available on an invite-only basis.
         </p>
